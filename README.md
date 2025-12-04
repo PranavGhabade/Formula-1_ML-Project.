@@ -39,13 +39,6 @@ This project leverages **data-driven regression modeling** to analyze and predic
 
 ---
 
-## 🧩 Project Structure
-├── data
-├── notebooks
-├── monaco_model.pkl
-├── streamlit_app.py
-├── README.md
-
 
 ## 🏁 Results
 
