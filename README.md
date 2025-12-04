@@ -40,15 +40,12 @@ This project leverages **data-driven regression modeling** to analyze and predic
 ---
 
 ## 🧩 Project Structure
-├── data/
-│ └── f1_monaco_2024_full_dataset.csv
-├── notebooks/
-│ ├── module3.ipynb
-│ ├── module4.ipynb
+├── data
+├── notebooks
 ├── monaco_model.pkl
 ├── streamlit_app.py
 ├── README.md
-└── requirements.txt
+
 
 ## 🏁 Results
 
